@@ -8,6 +8,7 @@ Two Comprehensive Reports: Dive deep into Churn Analysis and Customer Behavior t
 Key Performance Indicators (KPIs): Track essential metrics including Churn Rate, Customers at Risk, Monthly Charges, Yearly Charges, and Total Customer base.
 Visual Representation: Utilizes pie charts to illustrate Gender distribution, Monthly Charges breakdown, and Internet Usage Composition.
 In-depth Analysis: Detailed bar charts allow users to uncover churn patterns based on Contract Type, Tenure, and Payment Method.
+
 How to Use
 Download: Clone or download the repository to your local machine.
 Open: Open the Power BI file (.pbix) using Power BI Desktop.
@@ -17,11 +18,12 @@ Customize: Customize the dashboard according to your specific business needs by 
 Quantifying Achievement
 Developed 5 essential KPIs and incorporated 6 insightful visualizations to provide actionable insights for improved decision-making.
 Collaborated with esteemed partners to deliver a powerful tool for customer churn analysis.
+
 Feedback
 Your feedback is highly appreciated! Feel free to submit an issue if you encounter any problems or have suggestions for improvement.
 
 Live Dashboard : 
 https://rb.gy/6r30ro
 
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/stanleyvictor/)
+LinkedIn: https://www.linkedin.com/in/stanleyvictor/
 Email: stanleyvictorprakash@gmail.com
